@@ -30,4 +30,10 @@ this is the Design
 
 
 this is the Database
-[data.txt](https://github.com/hebahawan/README-/files/8631341/data.txt)
+[databeas.txt](https://github.com/hebahawan/README-/files/8646975/databeas.txt)
+
+
+![image](https://user-images.githubusercontent.com/94739513/167296443-a8dd61bb-997d-49c2-ad8e-9b9213e669e8.png)
+![image](https://user-images.githubusercontent.com/94739513/167296469-95bd491c-eac2-4ec2-b296-fe5b2c0356da.png)
+![image](https://user-images.githubusercontent.com/94739513/167296483-db1f7d77-83fe-4c0e-b61a-39dfb8442284.png)
+
